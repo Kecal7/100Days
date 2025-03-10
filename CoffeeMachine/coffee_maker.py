@@ -1,4 +1,4 @@
-class CoffeeMaker:
+git remote add origin https://github.com/Kecal7/CoffeeMachineclass CoffeeMaker:
     """Models the machine that makes the coffee"""
     def __init__(self):
         self.resources = {
