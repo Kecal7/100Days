@@ -1,3 +1,3 @@
 100 days of code Bootcamp
-Miniprojekty vytvořené v rámci kurzu 100 days of code od udemy.com
+Miniprojects: created with 100 days of code course by udemy.com
 Python
